@@ -4,9 +4,9 @@ PRN-22070123069
 
 Title->Selection Sorting
 
-Aim->To learn about objrct oriented programming in C++(about bubble sorting)
+Aim->To learn about objrct oriented programming in C++
 
-Theory->Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted. 
+Theory->Selection Sort is a simple and intuitive sorting algorithm. It works by repeatedly selecting the minimum element from the unsorted portion of the array and swapping it with the element at the beginning of the unsorted portion.  
 
 Algorithm :
 start=>Create a function selection(arr, size)=>Initialize an integer array arr with the elements to be sorted=>Call the selection function to sort the array arr=>Print the sorted array arr=>End
